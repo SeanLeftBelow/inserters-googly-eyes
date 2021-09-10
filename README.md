@@ -1,5 +1,7 @@
 ### Inserters with Googly Eyes
 
+Hosted here: https://mods.factorio.com/mod/inserters-googly-eyes
+
 Forked from [](https://github.com/vixfwis/inserters-with-eyes)
 > Factorio mod that adds eyes to inserters. Helper script and a set of eyes included for your eye-providing needs.
 
